@@ -22,7 +22,7 @@ export class AsideComponent {
 
     generativeGemini = new GoogleGenerativeAI
     (
-        'AIzaSyCxKCtkwoN3XqRLKz4ZmLIEVnBX1wp6UoE'
+        'AIzaSyCiDAKxu1jlFPEnx9S41XRAuz5EZzJa2WY'
     );
 
     model = this.generativeGemini.getGenerativeModel({
